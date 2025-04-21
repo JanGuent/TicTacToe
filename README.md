@@ -1,3 +1,4 @@
+# Java based Command Line TicTacToe
 Implementation of TicTacToe in the console using Java. 
 Includes things like an AI which utilizes a minimax algorithm to always choose the best move.
 The User has the option to choose between Human players, and two different kinds of Computer players.
